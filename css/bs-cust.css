@@ -110,6 +110,11 @@
   margin-bottom: 1em;
 }
 
+.member-head {
+  color: #e5751f;
+  text-align: center;
+}
+
 .member-link {
   text-decoration: none;
   color: #e5751f;
